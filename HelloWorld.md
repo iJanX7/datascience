@@ -7,9 +7,8 @@ output: pdf_document
 
 ## This is a markdown file
 
-This is an R Markdown document for my Course 1 Project.
 
 
 
 
-# End.
+
